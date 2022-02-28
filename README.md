@@ -1,5 +1,5 @@
-## Welcome!
-
+<h2> Welcome!</h2>
+  
 <img src="https://i.pinimg.com/originals/74/72/34/7472349a990e2e2cf0124eafc9b5faf0.gif" width="100%">
 
 <h2>  <img src="https://media.giphy.com/media/uL5P9fPUHmqwphj6Qy/giphy.gif" width="60"> I'm Marielena! <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="60"></h2>
@@ -54,7 +54,7 @@ const marie = {
 ![PandArtist93 GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PandArtist93&layout=compact&theme=normal)
 </div>
 
-## Contact
+<h2> Contact</h2>
 
 <p align="center">
 
