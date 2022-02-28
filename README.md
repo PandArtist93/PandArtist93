@@ -46,7 +46,7 @@ const marie = {
     <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 </div>
 
-## Stats
+<h2> Stats <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="50"></h2>
 
 <div align="center">
 
