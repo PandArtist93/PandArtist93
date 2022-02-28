@@ -4,7 +4,6 @@
 
 <h2>  <img src="https://media.giphy.com/media/uL5P9fPUHmqwphj6Qy/giphy.gif" width="60"> I'm Marielena! <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="60"></h2>
 
-
 ```
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
