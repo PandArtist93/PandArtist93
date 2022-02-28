@@ -5,10 +5,9 @@
 <h2>  <img src="https://media.giphy.com/media/uL5P9fPUHmqwphj6Qy/giphy.gif" width="60"> I'm Marielena! <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="60"></h2>
 
 ```
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on a system for monitoring the status of orders.
+- 🌱 I’m currently learning React, Redux.
+- 📫 How to reach me: maizaga01@gmail.com.
 ```
 
 <h2> About Me <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" width="70"></h2>
