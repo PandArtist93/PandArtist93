@@ -22,7 +22,7 @@ const marie = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python],
   tools: [React, Redux, Node, Jest, Firebase],  
-  studies: ["Bootcamp Laboratoria, Simon Bolivar University"]
+  studies: ["Bootcamp Laboratoria, Simon Bolivar University"],
   challenge: "coming soon!"
 }
 ```
